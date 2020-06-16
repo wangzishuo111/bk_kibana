@@ -14,9 +14,9 @@ from blueapps.core.celery import celery_app
 # SaaS运行版本，如非必要请勿修改
 RUN_VER = 'open'
 # SaaS应用ID
-APP_CODE = 'bkzabbix'
+APP_CODE = 'bkkibana'
 # SaaS安全密钥，注意请勿泄露该密钥
-SECRET_KEY = 'f128e0cb-1793-41df-8b54-cb5b5c34f793'
+SECRET_KEY = '741f703b-55ec-4ace-bd5f-d1ec8b0b3045'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
 BK_URL = 'http://paas.growing.com' 
 
